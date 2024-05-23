@@ -1,16 +1,1 @@
-# campus_ebay
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have done task 6 and 7 .In this task that is task 7 i have created frontend of campus ebay but due to deadline i am not able to implement all the functionalities like chat interface and also data is same for all product description but i have completed task 6 completely i have deployed my website on this link and using another git repositery as to deploy a web app flutter builds a different web code but i have uploaded my whole code in this repositery
